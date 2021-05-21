@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stack_and_queue_test", "sta
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Binary_Tree_Application", "Binary_Tree_Application\Binary_Tree_Application.vcxproj", "{8DD4262F-D007-4A43-8BBA-404B42818AB1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "operating_system", "operating_system\operating_system.vcxproj", "{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{8DD4262F-D007-4A43-8BBA-404B42818AB1}.Release|x64.Build.0 = Release|x64
 		{8DD4262F-D007-4A43-8BBA-404B42818AB1}.Release|x86.ActiveCfg = Release|Win32
 		{8DD4262F-D007-4A43-8BBA-404B42818AB1}.Release|x86.Build.0 = Release|Win32
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Debug|x64.ActiveCfg = Debug|x64
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Debug|x64.Build.0 = Debug|x64
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Debug|x86.Build.0 = Debug|Win32
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Release|x64.ActiveCfg = Release|x64
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Release|x64.Build.0 = Release|x64
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Release|x86.ActiveCfg = Release|Win32
+		{A7BDD446-BBF6-4C4C-A68A-82D98EDE226F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
