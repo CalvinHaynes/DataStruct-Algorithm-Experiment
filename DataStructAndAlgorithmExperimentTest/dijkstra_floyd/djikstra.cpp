@@ -159,7 +159,7 @@ int main()
     cout << "构建的图为:" << endl;
     printGraph(&t);
     cout << "dijkstra算法结果如下:" << endl;
-    dijkstra(&t, 4);
+    dijkstra(&t, 1);
     return 0;
 }
 
